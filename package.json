@@ -18,9 +18,11 @@
     "nodemon": "^1.11.0"
   },
   "dependencies": {
+    "axios": "^0.16.2",
     "body-parser": "^1.18.2",
     "express": "^4.15.4",
     "mongoose": "^4.12.2",
-    "morgan": "^1.9.0"
+    "morgan": "^1.9.0",
+    "react-router": "^4.2.0"
   }
 }
