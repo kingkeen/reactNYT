@@ -1,0 +1,1 @@
+<h1>React based application to scrap New York Times API </h1>
